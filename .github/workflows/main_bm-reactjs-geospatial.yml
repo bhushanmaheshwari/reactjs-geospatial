@@ -71,5 +71,5 @@ jobs:
         with:
           app-name: 'bm-reactjs-geospatial'
           slot-name: 'Production'
-          package: .
+          package: 'frontend'
           
